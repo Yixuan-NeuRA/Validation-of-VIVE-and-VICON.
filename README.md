@@ -1,4 +1,4 @@
-The calibrate_V6.mlx is the main code of VIVE and Vicon data processing. 
+The calibrate_V6.mlx is the main code of the VIVE Ultimate Tracker and the Vicon motion capture system data processing. 
 
 Marker_Error_LToe.m, Marker_Error_RToe.m, Marker_Error_Waist, and get_time_offset.m are functions of the main code.
 
